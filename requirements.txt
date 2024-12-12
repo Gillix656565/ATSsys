@@ -1,6 +1,8 @@
-streamlit 
-google-generativeai 
 python-dotenv
-pdf2image
+base64
+streamlit
+pillow
 PyMuPDF
+pdf2image
+google-generativeai
 matplotlib
