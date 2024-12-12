@@ -1,5 +1,4 @@
 python-dotenv
-base64
 streamlit
 pillow
 PyMuPDF
